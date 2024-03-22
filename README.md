@@ -1,3 +1,1 @@
-### Hi there 👋
-
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNleDAyYzc4NWhhNzdyN3IwOG9rdHM0dWViaHZzd2xjeDc1Z3drdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s5dTKRFBi0YIE/giphy.gif) 
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtkejc1eXF1Mm9jdzA5N3E2dXpsd3RqaW5mY2hsb3V2enExZHdodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RJSm1aKb2V6SGmI9bS/giphy.gif)
